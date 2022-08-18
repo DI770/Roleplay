@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: orangered;
     margin: 0;
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -57,4 +57,8 @@ h2 {
 
 iframe {
     text-align: left;
+}
+
+.text {
+    text-align: left
 }
