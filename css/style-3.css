@@ -11,6 +11,7 @@ nav ul {
     text-align: center;
     padding: 0;
     margin: 0;
+    border-bottom: 50px solid orangered;
 }
 
 nav li {
@@ -54,6 +55,8 @@ img {
 }
 
 h1 {
+    text-decoration: none;
+    color: beige;
     text-align: center
 }
 
@@ -63,8 +66,15 @@ h2 {
     color: beige;
 }
 
-.otext {
+.itext {
     float: left;
-    width: 40%;
-    margin-left: 29%;
+    width: 43%;
+    margin-left: 27%;
+}
+
+.iitext {
+    float: left;
+    width: 43%;
+    margin-left: 27%;
+    border-bottom: 100px solid orangered;
 }

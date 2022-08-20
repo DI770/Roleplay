@@ -7,10 +7,11 @@ body {
 
 nav ul {
     list-style: none;
-    background-color: rgb(6, 65, 6);
+    background-color: rgba(6, 65, 6, 0.671);
     text-align: center;
     padding: 0;
     margin: 0;
+    border-bottom: 50px solid saddlebrown;
 }
 
 nav li {
@@ -58,6 +59,8 @@ img {
 }
 
 h1 {
+    text-decoration: none;
+    color: beige;
     text-align: center
 }
 
@@ -71,6 +74,10 @@ h2 {
     text-decoration: none;
     color: beige;
     float: left;
-    width: 40%;
-    margin-left: 29%;
+    width: 43%;
+    margin-left: 27%;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-bottom: 100px solid saddlebrown;
+    background-color: rgba(6, 65, 6, 0.671);
     }
