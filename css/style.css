@@ -64,3 +64,20 @@ iframe {
     width: 100%;
     margin-left: 0%;
 }
+
+.main {
+    text-align: center;
+    text-decoration: none;
+    color: beige;
+}
+
+.main a {
+    text-decoration: none;
+    color: beige;
+    display: block;
+}
+
+nav.main a:hover {
+    background-color: beige;
+    color: #4a4a4f;
+}
