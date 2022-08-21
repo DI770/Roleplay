@@ -5,6 +5,12 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h1 {
+    text-decoration: none;
+    color: beige;
+    text-align: center
+}
+
 nav ul {
     list-style: none;
     background-color: rgba(6, 65, 6, 0.671);
@@ -57,12 +63,6 @@ img {
     height: 50%;
     border-top: 20px solid saddlebrown;
     border-bottom: 50px solid saddlebrown;
-}
-
-h1 {
-    text-decoration: none;
-    color: beige;
-    text-align: center
 }
 
 h2 {
