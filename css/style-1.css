@@ -48,9 +48,11 @@ nav a:hover {
     text-align: center;
 }
 
+@media screen and (max-width: 40em) {
 #video {
-    margin: 0 auto;
+    margin-right: 0%;
     display: flex;
+}
 }
 
 img {
