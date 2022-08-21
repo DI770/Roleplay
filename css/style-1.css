@@ -1,9 +1,14 @@
-@media screen and (max-width: 768px) {
 body {
     background-color: rgb(230, 138, 0);
     margin: 0;
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-decoration: none;
+    color: rgb(207, 36, 36);
+    text-align: center
 }
 
 nav ul {
@@ -44,10 +49,13 @@ nav a:hover {
     text-align: center;
 }
 
+@media screen and (max-width: 600px) {
+
 iframe {
-    float: left;
-    width: 100%;
-    margin-left: 0%;
+    width: auto;
+    align-self: center;
+}
+
 }
 
 img {
@@ -57,11 +65,6 @@ img {
     height: 100%;
 }
 
-h1 {
-    text-decoration: none;
-    color: rgb(207, 36, 36);
-    text-align: center
-}
 
 h2 {
     text-align: center;
@@ -80,5 +83,4 @@ h2 {
     border-top: 20px solid rgb(230, 138, 0);
     border-bottom: 100px solid rgb(230, 138, 0);
     background-color: rgb(207, 36, 36);
-}
 }
