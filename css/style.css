@@ -40,9 +40,8 @@ nav a:hover {
 }
 
 .game {
-    float: left;
-    width: 25%;
-    margin-left: 37%;
+    margin-left: 35%;
+    margin-right: 35%;
 }
 
 .game a {
@@ -61,33 +60,22 @@ h2 {
 }
 
 .main {
-    float: left;
-    width: 43%;
-    margin-left: 27%;
+    margin: 0 auto;
     padding: 10px;
     padding-bottom: 10px;
+    margin: 0% auto;
     border-bottom: 100px solid indigo;
     background-color: cadetblue;
-}
-
-p {
-    text-decoration: none;
-    color: lavender;
-    display: block;
-    float: left;
-    width: 60%;
-    margin-left: 27%;
 }
 
 .main a {
     text-decoration: none;
     color: lavender;
     display: block;
-    float: left;
-    width: 25%;
-    margin-left: 37%;
+    margin: 0 auto;
     line-height: 30px;
     height: 30px;
+    text-align: center;
 }
 
 .main a:hover {
