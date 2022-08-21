@@ -44,14 +44,14 @@ nav a:hover {
     margin-right: 35%;
 }
 
-
-.game iframe {
-    float: left;
-    width: 100%;
-    margin-left: 0%;
-    display: flex;
+.game a {
+    text-align: center;
 }
 
+#video {
+    margin: 0 auto;
+    display: flex;
+}
 
 img {
     border-top: 20px solid rgb(230, 138, 0);
