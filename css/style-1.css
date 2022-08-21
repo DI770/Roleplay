@@ -51,6 +51,7 @@ iframe {
 
 img {
     border-top: 20px solid rgb(230, 138, 0);
+    border-bottom: 50px solid rgb(230, 138, 0);
     width: 100%;
     height: 100%;
 }
