@@ -1,3 +1,13 @@
+/* ======  CHAPTER  ====== */
+
+/* 1. Body */
+/* 2. Header */
+/* 3. Image */
+/* 4. Navigation */
+/* 5. Group */
+
+/* === Body === */
+
 body {
     background-color: saddlebrown;
     margin: 0;
@@ -5,11 +15,42 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+/* === Header === */
+
 h1 {
     text-decoration: none;
     color: beige;
     text-align: center
 }
+
+h2 {
+    text-align: center;
+    text-decoration: none;
+    color: beige;
+}
+
+/* === Image === */
+
+iframe {
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: flex;
+}
+
+img {
+    
+    float: left;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: flex;
+    
+    border-top: 20px solid saddlebrown;
+}
+
+/* === Navigation === */
 
 nav ul {
     list-style: none;
@@ -39,44 +80,25 @@ nav a:hover {
     color: #4a4a4f;
 }
 
+/* === Group === */
+
+@media screen and (min-width:600px) {
 .game {
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
     display: flex;
 }
-
-iframe {
-    float: left;
-    width: 100%;
-    margin-left: 0%;
-    display: flex;
-}
-
-img {
-    float: left;
-    width: 25%;
-    margin-left: 24%;
-    width: 50%;
-    height: 50%;
-    border-top: 20px solid saddlebrown;
-    border-bottom: 50px solid saddlebrown;
-}
-
-h2 {
-    text-align: center;
-    text-decoration: none;
-    color: beige;
 }
 
 .ttext {
     text-decoration: none;
     color: beige;
-    float: left;
-    width: 43%;
-    margin-left: 27%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 10px;
     padding-bottom: 20px;
     border: 1rem;
+    border-top: 50px solid saddlebrown;
     border-bottom: 100px solid saddlebrown;
     background-color: rgba(6, 65, 6, 0.671);
     }
