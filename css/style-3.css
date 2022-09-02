@@ -1,3 +1,6 @@
+@media screen and (min-width: 600px) {
+}
+
 body {
     background-color: orangered;
     margin: 0;
@@ -21,7 +24,7 @@ nav ul {
 }
 
 nav li {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     line-height: 40px;
     height: 40px;
     display: inline-block;
@@ -77,6 +80,10 @@ h2 {
     margin-left: 27%;
     padding: 10px;
     padding-bottom: 20px;
+    border: 1rem;
     border-bottom: 100px solid orangered;
     background-color: indianred;
+}
+
+@media screen and (min-width: 600px) {
 }
