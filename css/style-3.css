@@ -79,9 +79,9 @@ nav a:hover {
 
 @media screen and (min-width:600px) {
 .game {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: auto;
     display: flex;
+    width: 60%;
 }
 }
 
@@ -89,8 +89,8 @@ nav a:hover {
     text-decoration: none;
     color: beige;
     text-align: justify;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 10px;
     padding-bottom: 20px;
     border: 1rem;
