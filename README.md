@@ -21,7 +21,13 @@ I will also introduce to you, why, roleplaying is good for people. Not only soci
 
 ## Problems 
 
-
+Most of my problems that I have had has been to centering my pictures and videos.
+At first, I had problems finding the right size. This was my least problem.
+After I needed to make them responsive to the display, I had problem finding the right code to get it right.
+Much of what I learned my Html and CSS coding was from watching Kevin Powell´s Youtube videos on the subject.
+I learned from there how some CSS coding make some things easier and how I could apply it to my current project.
+And hopefully to my future projects.
+I will leave a link to his main page down in the Youtube section.
 
 
 ### Images
@@ -50,6 +56,8 @@ Trudvang:
 [![Trudvang Chronicles RPG](http://img.youtube.com/vi/n3V0oahXj94/0.jpg)](http://www.youtube.com/watch?v=n3V0oahXj94)
 
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
+
+[![Kevin Powell](http://img.youtube.com/vi/kepowob/0.jpg)](http://www.youtube.com/watch?v=kepowob)
 
 
 ### Links
