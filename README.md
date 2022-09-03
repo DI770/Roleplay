@@ -13,7 +13,7 @@
 
 *Youtube Videos
 
-<a href="https://www.youtube.com/embed/BkX_rOqXSas?start=9" target="_blank"><img src="http://img.youtube.com/vi/BkX_rOqXSas?start=9"
+<a href="https://www.youtube.com/embed/BkX_rOqXSas?start=9" target="_blank"><img src="http://img.youtube.com/vi/BkX_rOqXSas?start=9" alt="dungeons and dragons"/>
 
 
 *Links that was used
