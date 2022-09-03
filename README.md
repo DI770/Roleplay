@@ -13,9 +13,9 @@
 
 *Youtube Videos
 
-[![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas&t=9s/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas&t=9s)
+[![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas&t/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas&t)
 
-[![Trudvang Chronicles RPG](http://img.youtube.com/vi/n3V0oahXj94&t=1s/0.jpg)](http://www.youtube.com/watch?v=n3V0oahXj94&t=1s)
+[![Trudvang Chronicles RPG](http://img.youtube.com/vi/n3V0oahXj94&ts/0.jpg)](http://www.youtube.com/watch?v=n3V0oahXj94&t)
 
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
