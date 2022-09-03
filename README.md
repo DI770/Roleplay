@@ -13,7 +13,7 @@
 
 [Youtube Videos]
 
-[![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas&t=9s/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas&t)
+[![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas)
 
 [![Trudvang Chronicles RPG](http://img.youtube.com/vi/n3V0oahXj94&ts/0.jpg)](http://www.youtube.com/watch?v=n3V0oahXj94&t)
 
