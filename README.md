@@ -24,7 +24,7 @@ I will also introduce to you, why, roleplaying is good for people. Not only soci
 
 
 
-# Images
+### Images
 
 ![Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
 Tiny Tina RPG:
@@ -43,7 +43,7 @@ Trudvang:
 
 
 
-# Youtube Videos
+### Youtube Videos
 
 [![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas)
 
@@ -52,7 +52,7 @@ Trudvang:
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
 
-# Links
+### Links
 
 [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
 
