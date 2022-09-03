@@ -2,8 +2,8 @@
 
 [Images that was used]
 
-Tiny Tina RPG:
 ![Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
+Tiny Tina RPG:
 
 Court Jester:
 ![Court Jester](https://i.pinimg.com/originals/36/99/00/36990036e587d6471b0d49a1c47317bc.gif)
