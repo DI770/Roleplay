@@ -2,6 +2,7 @@
  ## Contents 
  
  - [Introduction](#Introduction)
+ - [Problems](#Problems)
  - [Images](#Images)
  - [Youtube Videos](#Youtube-Videos)
  - [Links](#Links)
