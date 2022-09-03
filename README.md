@@ -2,33 +2,33 @@
 
 *Images that was used
 
-[!Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
+[Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
 
-[!Dungeon and Dragons](https://m.media-amazon.com/images/M/MV5BOWM0MjNkMjEtY2IyNi00ODdmLTk0ODctNjY3YTQzN2Y3N2ZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg)
+[Dungeon and Dragons](https://m.media-amazon.com/images/M/MV5BOWM0MjNkMjEtY2IyNi00ODdmLTk0ODctNjY3YTQzN2Y3N2ZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg)
 
-[!Trudvang](https://perkan-arts.com/____impro/1/images/dod/liten_kvalerkorp.jpg?etag=%22bc9f2-55e7e0af%22&sourceContentType=image%2Fjpeg&quality=85)
+[Trudvang](https://perkan-arts.com/____impro/1/images/dod/liten_kvalerkorp.jpg?etag=%22bc9f2-55e7e0af%22&sourceContentType=image%2Fjpeg&quality=85)
 
-[!Court Jester](https://i.imgur.com/WGKWqaM.gif)
+[Court Jester](https://i.imgur.com/WGKWqaM.gif)
 
 
 *Youtube Videos
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas&t=9s/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas&t=9s)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Trudvang Chronicles RPG](http://img.youtube.com/vi/n3V0oahXj94&t=1s/0.jpg)](http://www.youtube.com/watch?v=n3V0oahXj94&t=1s)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
 
 *Links that was used
 
-[!Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
+[Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
 
-[!Trudvang](https://drakarochdemonertrudvang.fandom.com/wiki/Trudvang)
+[Trudvang](https://drakarochdemonertrudvang.fandom.com/wiki/Trudvang)
 
-[!Trudvang Images](https://perkan-arts.com/portfolio/trudvang)
+[Trudvang Images](https://perkan-arts.com/portfolio/trudvang)
 
-[!Roleplay and Autism](https://www.linkedin.com/pulse/how-role-playing-games-help-neurodiverse-autism-hawke-robinson/)
+[Roleplay and Autism](https://www.linkedin.com/pulse/how-role-playing-games-help-neurodiverse-autism-hawke-robinson/)
 
-[!Roleplay and Children](https://www.pbcexpo.com.au/blog/reasons-why-role-playing-is-important-for-your-child)
+[Roleplay and Children](https://www.pbcexpo.com.au/blog/reasons-why-role-playing-is-important-for-your-child)
 
