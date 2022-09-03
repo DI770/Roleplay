@@ -32,7 +32,8 @@ But learning how to Center a picture. Or to make it Flex. That must have been th
 Much of what I learned my Html and CSS coding was from watching Kevin Powell´s Youtube videos on the subject.
 I learned from there how some CSS coding make some things easier and how I could apply it to my current project.
 And hopefully to my future projects.
-I will leave a link to one of his videos, down in the Youtube section.
+He is also the one who taught me to stop coding in Chrome and start coding in Firefox instead.
+I will leave a link to the first video for beginners, down in the Youtube section.
 
 
 ### Images
