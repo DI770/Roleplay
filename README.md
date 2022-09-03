@@ -57,7 +57,7 @@ Trudvang:
 
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
-[![Kevin Powell](http://img.youtube.com/vi/LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-/0.jpg)](http://www.youtube.com/watch?v=LGQuIIv2RVA&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
+[![Kevin Powell](http://img.youtube.com/vi/LGQuIIv2RVA/0.jpg)](http://www.youtube.com/watch?v=LGQuIIv2RVA)
 
 
 ### Links
