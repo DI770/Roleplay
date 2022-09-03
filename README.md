@@ -1,6 +1,6 @@
 `python3 -m http.server`
 
-*Images that was used
+[Images that was used]
 
 [Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
 
@@ -11,7 +11,7 @@
 [Court Jester](https://i.imgur.com/WGKWqaM.gif)
 
 
-*Youtube Videos
+[Youtube Videos]
 
 [![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas&t=9s/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas&t)
 
@@ -20,7 +20,7 @@
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
 
-*Links that was used
+[Links that was used]
 
 [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
 
