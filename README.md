@@ -8,7 +8,7 @@
 
 [Trudvang](https://perkan-arts.com/____impro/1/images/dod/liten_kvalerkorp.jpg?etag=%22bc9f2-55e7e0af%22&sourceContentType=image%2Fjpeg&quality=85)
 
-[Court Jester](https://i.imgur.com/WGKWqaM.gif)
+[Court Jester](https://i.pinimg.com/originals/36/99/00/36990036e587d6471b0d49a1c47317bc.gif)
 
 
 [Youtube Videos]
