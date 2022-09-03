@@ -1,9 +1,9 @@
 `python3 -m http.server`
  ## Contents
  
- - [Images]
- - [Youtube Videos]
- - [Links]
+ - [Images](Images)
+ - [Youtube Videos](Youtube-Videos)
+ - [Links](Links)
 
 ## Images
 
