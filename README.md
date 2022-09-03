@@ -1,12 +1,29 @@
 `python3 -m http.server`
  ## Contents 
  
- 
+ - [Introduction](#Introduction)
  - [Images](#Images)
  - [Youtube Videos](#Youtube-Videos)
  - [Links](#Links)
 
-## Images
+# Introduction
+
+In this Project, I will introduce to you what TTRPG is. Or Tabeltop Roleplaying Game, as it is also known.
+One of them will be the well known game Dungeon and Dragons. That had its origin from America.
+
+Another Roleplaying game that I will intoduce you to, will be the Swedish game Trudvang. 
+A game that is based on a fantasy setting of norse mythology.
+This game is an extension of the Swedish game Drakar och Demoner (Dragons and Demons in Swedish).
+
+I will also introduce to you, why, roleplaying is good for people. Not only socialy, but also for children and people with autism.
+
+
+## Problems 
+
+
+
+
+# Images
 
 ![Tiny Tina RPG](https://i.giphy.com/media/xVtHNOP8P0RX3zkFix/giphy.webp)
 Tiny Tina RPG:
@@ -25,7 +42,7 @@ Trudvang:
 
 
 
-## Youtube Videos
+# Youtube Videos
 
 [![What is a Tabletop RPG](http://img.youtube.com/vi/BkX_rOqXSas/0.jpg)](http://www.youtube.com/watch?v=BkX_rOqXSas)
 
@@ -34,7 +51,7 @@ Trudvang:
 [![Tabletop Roleplaying Games as Social Practice](http://img.youtube.com/vi/QJwsWsTa1hI/0.jpg)](http://www.youtube.com/watch?v=QJwsWsTa1hI)
 
 
-## Links
+# Links
 
 [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
 
