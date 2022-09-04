@@ -29,6 +29,12 @@ h2 {
     color: lavender;
 }
 
+h4 {
+    text-decoration: none;
+    color: lavender;
+    margin-left: 5%;
+}
+
 /* === Image === */
 
 img {
@@ -90,8 +96,6 @@ nav a:hover {
     color: lavender;
     margin-left: 5%;
     margin-right: 5%;
-    
-    
     border-bottom: 1px solid cadetblue;
 }
 
