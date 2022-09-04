@@ -85,18 +85,13 @@ nav a:hover {
     background-color: cadetblue;
 }
 
-.main a {
+.intro {
     text-decoration: none;
     color: lavender;
-    display: block;
-    margin: 0 auto;
-    line-height: 30px;
-    height: 30px;
-    text-align: center;
-}
-
-.main a:hover {
-    background-color: lavender;
-    color: #4a4a4f;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    
+    border-bottom: 1px solid cadetblue;
 }
 
