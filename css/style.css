@@ -74,10 +74,13 @@ nav a:hover {
 }
 
 .main {
-    margin: 0 auto;
+    text-decoration: none;
+    color: lavender;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 10px;
-    padding-bottom: 10px;
-    margin: 0% auto;
+    padding-bottom: 20px;
+    border: 1rem;
     border-bottom: 100px solid indigo;
     background-color: cadetblue;
 }
