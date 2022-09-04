@@ -21,7 +21,7 @@ I will also introduce to you, why, roleplaying is good for people. Not only soci
 
 ## Problems 
 
-Most of my problems that I have had has been to centering my pictures and videos.
+Most of my problems that I have had, has been to centering my pictures and videos.
 At first, I had problems finding the right size. This was my least problem.
 After I needed to make them responsive to the display, I had problem finding the right code to get it right.
 It wasn´t until I started using "rem" instead of "em" that I got text sizes that i liked.
@@ -34,6 +34,9 @@ I learned from there how some CSS coding make some things easier and how I could
 And hopefully to my future projects.
 He is also the one who taught me to stop coding in Chrome and start coding in Firefox instead.
 I will leave a link to the first video for beginners, down in the Youtube section.
+
+He even recommended to make 'Chapters' in ones CSS. For easy finding of different things in the CSS code.
+Just press Ctrl + F and search for the targeted name.
 
 
 ### Images
