@@ -33,6 +33,7 @@ h4 {
     text-decoration: none;
     color: lavender;
     margin-left: 5%;
+    padding-top: 2%;
 }
 
 /* === Image === */
@@ -80,13 +81,10 @@ nav a:hover {
 }
 
 .main {
-    text-decoration: none;
+    
     color: lavender;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding: 10px;
-    padding-bottom: 20px;
-    border: 1rem;
+    margin-left: 15%;
+    margin-right: 15%;
     border-bottom: 100px solid indigo;
     background-color: cadetblue;
 }
@@ -96,6 +94,7 @@ nav a:hover {
     color: lavender;
     margin-left: 5%;
     margin-right: 5%;
+    text-align: left;
     border-bottom: 1px solid cadetblue;
 }
 
